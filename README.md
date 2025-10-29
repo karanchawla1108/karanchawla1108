@@ -18,7 +18,7 @@
   - Cybersecurity Fundamentals & Ethical Hacking  
   - Azure Fundamentals and Networking
 
-- 👯 I’m looking to collaborate on **Network Automation using Python or Ansible**
+- 🤝 I’m looking to collaborate on **Network Automation using Python or Ansible**
 
 - 🤝 I’m looking for help with **Advanced Cisco Routing Protocols & Network Security (VPN, ACLs)**
 
